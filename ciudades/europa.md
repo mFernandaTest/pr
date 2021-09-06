@@ -8,3 +8,5 @@
 * Napoles
 * Atenas
 * Colonia
+* Viena
+* Praga

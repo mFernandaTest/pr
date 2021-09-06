@@ -5,3 +5,4 @@
 * Bangkok
 * Seul
 * Beiging
+* Hong Kong
