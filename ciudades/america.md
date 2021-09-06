@@ -7,4 +7,3 @@
 * Lima
 * Toronto
 * Santigo
-* Bogota
